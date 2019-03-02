@@ -1,0 +1,13 @@
+{
+  "name": "brunch-skeleton-basic",
+  "version": "0.1.0",
+  "description": "Basic skeleton for brunch",
+  "author": "Pierre Moinet",
+  "scripts": {
+    "start": "brunch watch --server",
+    "build": "brunch build"
+  },
+  "dependencies": {
+    "brunch": "^2.10.17"
+  }
+}
